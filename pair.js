@@ -83,7 +83,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "ɴɪᴋᴏ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
+thumbnailUrl: "https://files.catbox.moe/cs2b1p.jpg",
 sourceUrl: "https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z",
 mediaType: 1,
 renderLargerThumbnail: true
